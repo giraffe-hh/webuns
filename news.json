@@ -1,0 +1,21 @@
+[
+    {
+      "image": "./assets/img/blog/blog-recent-1.jpg",
+      "title": "News #01",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sequi quos magni!",
+      "link": "#"
+    },
+    {
+      "image": "./assets/img/blog/blog-recent-2.jpg",
+      "title": "News #02",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sequi quos magni!",
+      "link": "#"
+    },
+    {
+      "image": "./assets/img/blog/blog-recent-3.jpg",
+      "title": "News #03",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit sequi quos magni!",
+      "link": "#"
+    }
+  ]
+  
